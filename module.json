@@ -1,0 +1,25 @@
+{   
+   "id": "lancer-cards",
+   "name": "lancer-cards",
+   "title": "Lancer Cards",   
+   "description": "A compendium of reaction cards to stylishly assist players in tracking their reaction economy.",   
+   "authors": [
+        {
+            "name": "Z3nner"
+        }
+    ],
+    "version": "1.0",
+    "minimumCoreVersion": "10",
+    "compatibility": {
+        "minimum": 10,
+        "verified": "10.312"
+    },
+   "packs": [
+    {
+      "name": "reaction-cards",
+      "label": "Lancer Reaction Cards",
+      "path": "packs/reactioncards.db",
+      "type": "Cards",
+      "system": "lancer"
+    }  ]
+}
