@@ -1,28 +1,29 @@
-{   
-   "id": "lancer-cards",
-   "name": "lancer-cards",
-   "title": "Lancer Cards",   
-   "description": "A compendium of reaction cards to stylishly assist players in tracking their reaction economy.",   
-   "authors": [
+{
+    "id": "lancer-cards",
+    "name": "lancer-cards",
+    "title": "Lancer Cards",
+    "description": "A compendium containing decks of cards to stylishly assist players in tracking their reactions and reserves.",
+    "authors": [
         {
             "name": "Z3nner"
         }
     ],
-    "version": "1.0",
+    "version": "0.1.6",
     "minimumCoreVersion": "10",
     "compatibility": {
         "minimum": 10,
         "verified": "10.312"
     },
-    "url": "https://github.com/Z3nner/lancer-weapon-fx",
+    "url": "https://github.com/Z3nner/lancer-cards",
     "manifest": "https://github.com/Z3nner/lancer-cards/releases/latest/download/module.json",
-    "download": "https://github.com/Z3nner/lancer-cards/releases/download/0.1.0/module.zip",
-   "packs": [
-    {
-      "name": "reaction-cards",
-      "label": "Lancer Reaction Cards",
-      "path": "packs/reactioncards.db",
-      "type": "Cards",
-      "system": "lancer"
-    }  ]
+    "download": "https://github.com/Z3nner/lancer-cards/releases/download/0.1.6/module.zip",
+    "packs": [
+        {
+            "name": "lancer-cards",
+            "label": "Lancer Cards",
+            "path": "packs/lancercards.db",
+            "type": "Cards",
+            "system": "lancer"
+        }
+    ]
 }
