@@ -31,7 +31,7 @@ If players earn Reserves, they can be dragged from the Master Deck to the player
 
 ![PopulateReactionDeck](https://github.com/Z3nner/lancer-cards/assets/76132631/51ebb399-ccde-4a55-956c-4210dce46e67)
 
-Sometimes a player will have more cards than they can use. For example, a Hydra pilot has a reaction for each of its 3 Trait given drones, but the pilot has to pick one drone at a time. They’d have all the drone cards in their deck, but only the drone card they chose in their hand.)
+Sometimes a player will have more cards than they can use. For example, a Hydra pilot has a reaction for each of its 3 Trait given drones, but the pilot has to pick one drone at a time. They’d have all the drone cards in their deck, but only the drone card they chose in their hand.
 
 So other than not choosing some options, like that Hydra's drone, you'll then take those cards you just copied to each player's deck, and "Deal" them to each player.
 
