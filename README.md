@@ -14,6 +14,7 @@ The GM can use the two decks included in this module to populate a deck of react
 * Create a single Cards Pile to act as a Discard pile.
 * Give ALL players Observer permissions to ALL other player’s hand’s
 * Give each player Owner permissions for their own hand.
+* Give each player Limited permissions for the Discard pile.
 
 Your deck structure should look something like this.
 
