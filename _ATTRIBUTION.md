@@ -2,7 +2,7 @@ The icons used throughout the Reactions deck, and ocassionally in the Reserves d
 
 [https://github.com/massif-press/compcon](https://github.com/massif-press/compcon)
 
-Lancer Cards is not an official Lancer product; it is a third party work, and is not affiliated with Massif Press. Lancer Cards is published via the LAncer Third Party License.
+Lancer Cards is not an official Lancer product; it is a third party work, and is not affiliated with Massif Press. Lancer Cards is published via the Lancer Third Party License.
 Lancer is copyright Massif Press
 
 [https://massifpress.com/](https://massifpress.com/legal)
