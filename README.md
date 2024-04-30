@@ -59,6 +59,8 @@ If you use the following macro, be sure to follow these requirements
 
 ![MiniBarHookMacroConfig](https://github.com/Z3nner/lancer-cards/assets/76132631/d9b9ef5f-f9eb-4766-aeab-cb3ea9ebdf12)
 
+Create a new Macro in Foundry, select Script. Note the name of the macro and ensure it matches what you register in Hook Macros module. Enter the following in the macro body and save the macro.
+
 ```
 setTimeout(() => {
 game.settings.set("hand-mini-bar", "HandCount", 4);
